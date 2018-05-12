@@ -1,0 +1,35 @@
+_repo: Klytia--A-Story-of-Heidelberg-Castle_33133
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Corkran, Sutton Fraser
+    gutenberg_agent_id: '36225'
+    url: http://www.gutenberg.org/2009/agents/36225
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hausrath, Adolf
+    aliases:
+    - Hausrath, A. (Adolf)
+    - Taylor, George
+    birthdate: 1837
+    deathdate: 1909
+    gutenberg_agent_id: '36231'
+    url: http://www.gutenberg.org/2009/agents/36231
+    wikipedia: http://en.wikipedia.org/wiki/Adolph_Hausrath
+description: ''
+gutenberg_issued: '2010-07-11'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '33133'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Heidelberger Schloss (Heidelberg, Germany) -- Fiction'
+- !lcc 'PT'
+title: 'Klytia: A Story of Heidelberg Castle'
+url: http://www.gutenberg.org/ebooks/33133
